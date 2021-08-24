@@ -1,0 +1,32 @@
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.exe
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.deps.json
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.runtimeconfig.json
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.runtimeconfig.dev.json
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.dll
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.pdb
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.csproj.AssemblyReference.cache
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.GeneratedMSBuildEditorConfig.editorconfig
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.AssemblyInfoInputs.cache
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.AssemblyInfo.cs
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.csproj.CoreCompileInputs.cache
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.dll
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.pdb
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.genruntimeconfig.cache
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/bin/Debug/netcoreapp3.1/BCrypt.Net-Core.dll
+D:/PT. MII/MCC/3.Basic Programming/2.Praktik/ConsoleAppClone/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.csproj.CopyComplete
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.deps.json
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.runtimeconfig.json
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.runtimeconfig.dev.json
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.dll
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/ConsoleAppClone.pdb
+/home/ferddev21/Documents/ConsoleAppClone/bin/Debug/netcoreapp3.1/BCrypt.Net-Core.dll
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.csproj.AssemblyReference.cache
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.AssemblyInfoInputs.cache
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.AssemblyInfo.cs
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.csproj.CoreCompileInputs.cache
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.csproj.CopyComplete
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.dll
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.pdb
+/home/ferddev21/Documents/ConsoleAppClone/obj/Debug/netcoreapp3.1/ConsoleAppClone.genruntimeconfig.cache

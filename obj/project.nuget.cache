@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4XTBtuSXVZzEH0N8fYH96GWmOFMJK+ByNpBWfllhXoZsGq81CFjsPLOsh0U4EQrswOm0/4ydg1gCHr04ziP1FQ==",
+  "success": true,
+  "projectFilePath": "/home/ferddev21/project/metrodata/net/ConsoleAppClone/ConsoleAppClone.csproj",
+  "expectedPackageFiles": [
+    "/home/ferddev21/.nuget/packages/bcrypt.net-core/1.6.0/bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
